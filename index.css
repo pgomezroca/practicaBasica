@@ -1,0 +1,42 @@
+body{
+  color: #0066A2;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  
+}
+
+#tarea{
+  display: block;
+  border:2px solid #0066A2 ;
+  margin: 20px;
+}
+  
+
+#tx{
+  border:2px solid #0066A2 ;
+  margin:20px ;
+}
+#boton{
+  margin-left: 20%;
+  margin-right: 20%;
+ background: #0066A2;
+ color: white;
+ 
+ border-color: #0066A2;
+ 
+ height: 50px;
+ 
+ font: bold15px arial,sans-serif;
+ cursor: pointer;
+ 
+ }
+ #bboton:hover{
+   background-color: aqua;
+ }
+ hr{
+   height: 1px;
+   background-color:  #0066A2;
+ }
+ h1{
+   text-align: justify;
+ }
